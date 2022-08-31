@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+/*for heading*/
+.head_content{
+    color:rgb(57, 57, 123);
+    text-decoration:underline;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top:20px;
+    text-align:center;
+}
+
+
+.parent_container{
+    border:3px solid black;
+
+}
+
+.form_container{
+    border:3px solid black;
+    background:rgb(57, 57, 123);
+    margin-top:20px;
+    color:white;
+  
+}
